@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a72be8f3-df44-48a9-9348-4cef0de6ca95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/djangoProjectModels.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoProjectModels/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="a72be8f3-df44-48a9-9348-4cef0de6ca95" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716359014936</updated>
-      <workItem from="1716359016306" duration="1567000" />
+      <workItem from="1716359016306" duration="1914000" />
     </task>
     <servers />
   </component>
